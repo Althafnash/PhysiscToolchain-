@@ -20,3 +20,5 @@ def main():
   if answers['Main'] == 'Classical Mechanics':
     sub.run('cls',shell=True)
     ClassicalMain()
+
+main()
